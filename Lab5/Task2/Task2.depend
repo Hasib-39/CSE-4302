@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694098572 source:d:\iut\3rd semester\oop lab\lab5\task2\main.cpp
+	<iostream>
+	"student.h"
+
+1694099083 d:\iut\3rd semester\oop lab\lab5\task2\include\student.h
+	<string>
+
+1694098821 source:d:\iut\3rd semester\oop lab\lab5\task2\src\student.cpp
+	<iostream>
+	"student.h"
+	<string>
+
