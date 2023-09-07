@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694083128 source:d:\iut\3rd semester\oop lab\lab5\savingsaccount\src\savingsaccount.cpp
+	<iostream>
+	"SavingsAccount.h"
+
+1694082354 d:\iut\3rd semester\oop lab\lab5\savingsaccount\include\savingsaccount.h
+
+1694081795 source:d:\iut\3rd semester\oop lab\lab5\savingsaccount\main.cpp
+	<iostream>
+	"SavingsAccount.h"
+
+1694079729 d:\iut\3rd semester\oop lab\lab5\savingsaccount\src\savingsaccount.cpp
+	<iostream>
+	"SavingsAccount.h"
+
