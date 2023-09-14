@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1694681848 source:d:\iut\3rd semester\oop lab\lab6\counter\src\counter.cpp
+	"Counter.h"
+
+1694681747 d:\iut\3rd semester\oop lab\lab6\counter\include\counter.h
+
+1694683671 source:d:\iut\3rd semester\oop lab\lab6\counter\main.cpp
+	<iostream>
+	"Counter.h"
+
