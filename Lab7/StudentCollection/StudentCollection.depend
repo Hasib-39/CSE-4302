@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695293087 source:d:\iut\3rd semester\oop lab\lab7\studentcollection\main.cpp
+	"StudentCollection.h"
+	<iostream>
+
+1695294881 d:\iut\3rd semester\oop lab\lab7\studentcollection\include\studentcollection.h
+	<string>
+
+1695293248 source:d:\iut\3rd semester\oop lab\lab7\studentcollection\src\studentcollection.cpp
+	"StudentCollection.h"
+	<iostream>
+

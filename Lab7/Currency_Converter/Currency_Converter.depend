@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695291309 source:d:\iut\3rd semester\oop lab\lab7\currency_converter\main.cpp
+	"Currency_Converter.h"
+	<iostream>
+
+1695290458 d:\iut\3rd semester\oop lab\lab7\currency_converter\include\currency_converter.h
+
+1695292766 source:d:\iut\3rd semester\oop lab\lab7\currency_converter\src\currency_converter.cpp
+	"Currency_Converter.h"
+	<iostream>
+	<cmath>
+

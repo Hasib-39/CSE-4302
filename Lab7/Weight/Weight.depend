@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695290185 source:d:\iut\3rd semester\oop lab\lab7\weight\main.cpp
+	"Weight.h"
+	<iostream>
+
+1695289706 d:\iut\3rd semester\oop lab\lab7\weight\include\weight.h
+
+1695289887 source:d:\iut\3rd semester\oop lab\lab7\weight\src\weight.cpp
+	"Weight.h"
+	<iostream>
+
