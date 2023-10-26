@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1697711017 source:d:\iut\3rd semester\oop lab\lab 8\employee\main.cpp
+	<iostream>
+	"Employee.h"
+
+1697710652 d:\iut\3rd semester\oop lab\lab 8\employee\include\employee.h
+	<iostream>
+	<string>
+
+1697710037 d:\iut\3rd semester\oop lab\lab 8\employee\include\manager.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1697711246 d:\iut\3rd semester\oop lab\lab 8\employee\include\engineer.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1697710739 d:\iut\3rd semester\oop lab\lab 8\employee\include\designer.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1697710604 source:d:\iut\3rd semester\oop lab\lab 8\employee\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	<string>
+
+1697710750 source:d:\iut\3rd semester\oop lab\lab 8\employee\src\engineer.cpp
+	"Engineer.h"
+	<iostream>
+	<string>
+
+1697711345 source:d:\iut\3rd semester\oop lab\lab 8\employee\src\designer.cpp
+	"Designer.h"
+	<iostream>
+	<string>
+
+1697711360 source:d:\iut\3rd semester\oop lab\lab 8\employee\src\manager.cpp
+	"Manager.h"
+	<iostream>
+	<string>
+

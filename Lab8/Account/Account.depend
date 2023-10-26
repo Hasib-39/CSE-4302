@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1697736927 source:d:\iut\3rd semester\oop lab\lab 8\account\main.cpp
+	<iostream>
+	"Account.h"
+	"CurrentAccount.h"
+	"LoanAccount.h"
+	"SavingsAccount.h"
+	"LoanAccount.h"
+	"MonthlyDepositScheme.h"
+	"TwoYearMDS.h"
+
+1697732593 d:\iut\3rd semester\oop lab\lab 8\account\include\account.h
+	<iostream>
+	<string>
+
+1697735073 d:\iut\3rd semester\oop lab\lab 8\account\include\currentaccount.h
+	<iostream>
+	<Account.h>
+
+1697735222 d:\iut\3rd semester\oop lab\lab 8\account\include\loanaccount.h
+	<Account.h>
+
+1697735188 d:\iut\3rd semester\oop lab\lab 8\account\include\savingsaccount.h
+	<Account.h>
+
+1697732585 source:d:\iut\3rd semester\oop lab\lab 8\account\src\account.cpp
+	"Account.h"
+	<iostream>
+
+1697733287 source:d:\iut\3rd semester\oop lab\lab 8\account\src\currentaccount.cpp
+	"CurrentAccount.h"
+	<iostream>
+	<string>
+
+1697735235 source:d:\iut\3rd semester\oop lab\lab 8\account\src\loanaccount.cpp
+	<bits/stdc++.h>
+	"LoanAccount.h"
+
+1697735151 source:d:\iut\3rd semester\oop lab\lab 8\account\src\savingsaccount.cpp
+	"SavingsAccount.h"
+	<bits/stdc++.h>
+
+1697737323 source:d:\iut\3rd semester\oop lab\lab 8\account\src\monthlydepositscheme.cpp
+	"MonthlyDepositScheme.h"
+	<iostream>
+
+1697736999 d:\iut\3rd semester\oop lab\lab 8\account\include\monthlydepositscheme.h
+	<iostream>
+	<Account.h>
+
+1697736286 d:\iut\3rd semester\oop lab\lab 8\account\include\twoyearmds.h
+	<MonthlyDepositScheme.h>
+	<iostream>
+
+1697737325 source:d:\iut\3rd semester\oop lab\lab 8\account\src\twoyearmds.cpp
+	"TwoYearMDS.h"
+	<iostream>
+
+1697737328 source:d:\iut\3rd semester\oop lab\lab 8\account\src\fiveyearmds.cpp
+	"FiveYearMDS.h"
+	<iostream>
+
+1697737245 d:\iut\3rd semester\oop lab\lab 8\account\include\fiveyearmds.h
+	<MonthlyDepositScheme.h>
+	<iostream>
+
+1697737429 source:d:\iut\3rd semester\oop lab\lab 8\account\src\initialdepositmds.cpp
+	"InitialDepositMDS.h"
+	<iostream>
+
+1697737469 d:\iut\3rd semester\oop lab\lab 8\account\include\initialdepositmds.h
+	<MonthlyDepositScheme.h>
+	<iostream>
+
